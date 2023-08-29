@@ -19,7 +19,9 @@ body {
 .container {
     width: 80vw;
     margin: auto;
+    margin-top: 25%;
     border: 1px solid var(--main-slate);
+    border-radius: 5px;
     background-color: var(--main-black);
     overflow: hidden;
     opacity: 90%;
